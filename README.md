@@ -1,3 +1,19 @@
+
+
+<h1>
+  A simple React Notes Chrome Extension 
+</h1>
+
+======<
+<h2>
+  Images 
+</h2>
+<p>
+  <img width="949" height="618" alt="image" src="https://github.com/user-attachments/assets/f95a2795-c9e7-4a80-bdce-8688006969f6" />
+<img width="1703" height="588" alt="image" src="https://github.com/user-attachments/assets/287b4c70-6b68-470b-b760-7df9bf6c3a02" />
+</p>
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
